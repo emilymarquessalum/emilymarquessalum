@@ -1,10 +1,10 @@
 ## Hey you!
 
-### I Am Emily Salum, 18 years old, coding for about 4 to 5 years.
+### I Am Emily Salum, 18 years old, coding for about 4 years.
 
 - Always having fun! Because.. coding is fun!..
 - Wanna have a chat? Call me on [discord](https://discord.com/users/674759841583202328)!
-- Currently working on... a discord bot! 🤖 (that is the reason why I am almost 24h/day online in there by the way!)
+- Currently working on... [my portfolio!](https://emilymarquessalum.github.io/portfolio/) 
 - I am also... Studying in courses from [Alura](https://www.alura.com.br/)! Because of [Grupo Boticario](https://desenvolve.grupoboticario.com.br/)! 📗📗📗📗
 
 <!--
