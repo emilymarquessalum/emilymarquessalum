@@ -1,13 +1,12 @@
 ## Hey you!
 
 ### I Am Emily Salum, 18 years old, coding for about 4 years.
+ 
+- Currently on university! (FURG computer engineering)
+- My last (extensively) worked-on project was [my portfolio!](https://emilymarquessalum.github.io/portfolio/) 
+- I also Study courses from [Alura](https://www.alura.com.br/)! Because of [Grupo Boticario](https://desenvolve.grupoboticario.com.br/)!  📗📗📗📗. 
 
-- Always having fun! Because.. coding is fun!..
-- Currently not coding much, because I am on university! (computer engineering)
 - Wanna have a chat? Call me on [discord](https://discord.com/users/674759841583202328)!
-- My last worked-on project was [my portfolio!](https://emilymarquessalum.github.io/portfolio/) 
-- I also Study courses from [Alura](https://www.alura.com.br/)! Because of [Grupo Boticario](https://desenvolve.grupoboticario.com.br/)! Although a lot less now... 📗📗📗📗. 
-
 
 <!--
 **emilymarquessalum/emilymarquessalum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
