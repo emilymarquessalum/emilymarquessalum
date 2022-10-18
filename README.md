@@ -1,6 +1,6 @@
 ## Hey you!
 
-### I Am Emily Salum, 18 years old, coding for about 4 years.
+### I Am Emily Salum, Junior Fullstack Developer.
  
 - Currently on university! (FURG computer engineering)
 - My last (extensively) worked-on project was [my portfolio!](https://emilymarquessalum.github.io/portfolio/) 
