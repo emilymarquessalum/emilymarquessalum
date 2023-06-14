@@ -2,9 +2,9 @@
 
 ### I Am Emily Salum, Junior Fullstack Developer.
  
-- Currently on university! (FURG computer engineering)
-- My last (extensively) worked-on project was [my portfolio!](https://emilymarquessalum.github.io/portfolio/) 
-- I also Study courses from [Alura](https://www.alura.com.br/)! Because of [Grupo Boticario](https://desenvolve.grupoboticario.com.br/)!  📗📗📗📗. 
+- Currently on second year of computer engineering (at FURG)
+- I work as a Flutter Front-end developer in [ITec](https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/) 
+- My last (public) worked-on project was [my portfolio!](https://emilymarquessalum.github.io/portfolio/) , 2022
 
 - Wanna have a chat? Call me on [discord](https://discord.com/users/674759841583202328)!
 
