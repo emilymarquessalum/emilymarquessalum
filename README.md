@@ -2,8 +2,8 @@
 
 ### I Am Emily Salum, Junior Fullstack Developer.
  
-- Currently at my third year of computer engineering (at FURG)
-- I work as a Flutter Front-end developer in [ITec](https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/), 1+ year;
+- Third year of computer engineering at FURG
+- 2 years as Flutter Front-end developer in [ITec](https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/), 1+ year;
 
 - Wanna have a chat? Call me on [discord](https://discord.com/users/674759841583202328)!
 
