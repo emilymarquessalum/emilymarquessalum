@@ -33,7 +33,6 @@
 Last public projects:
 - [Model Integration Using RatInABox](https://github.com/emilymarquessalum/model_integration_ratinabox): Neuroscience, RL models;
 - [Personal Finances Analysis](https://github.com/emilymarquessalum/personal_finances_analysis/tree/main): Spreadsheet, Regression, PowerBI;
-- 
 ## Looking at my profile because of flutter?
 I worked in 4 different projects in iTec, but sadly those are private and I can't link to them.  
 <br></br>
