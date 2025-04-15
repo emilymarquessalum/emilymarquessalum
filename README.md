@@ -41,4 +41,3 @@ I worked in 4 different projects in iTec, but those are private and I can't link
 ### Last flutter public projects:
 - [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): BLOC, GoRouter;
 - [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): BLoC, Auto Route, Deploys to firebase web (was made for mobile but that was the simplest starting approach for testing remotely);
-- [Gov Clone](https://github.com/emilymarquessalum/gov_flutter_copy_app): BLoC, Go Router;
