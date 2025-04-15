@@ -5,7 +5,7 @@
   <tr>
     <td>A Student</td>
     <td>👩‍🎓</td>
-    <td>Third year of computer engineering at FURG</td>
+    <td>Forth year of computer engineering at FURG</td>
   </tr>
   <tr>
     <td>A Developer</td>
