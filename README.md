@@ -33,8 +33,9 @@
 ## Looking at my profile because of data science?
 Last public projects:
 - [Model Integration Using RatInABox](https://github.com/emilymarquessalum/model_integration_ratinabox): RL Model implemented in python to contribute to the package RatInABox, based on [[Scleidorovich et al., 2020]](https://pubmed.ncbi.nlm.nih.gov/31915905/). Topics: Python, RL models;
-- [Network RIPE Analysis](https://github.com/emilymarquessalum/network-ripe-analysis/tree/main): Analysis of network RTT for IPV4 and IPV6; 
-- [WIP - Personal Finances Analysis](https://github.com/emilymarquessalum/personal_finances_analysis/tree/main): Analysis tool for finance prediction. Topics: Regression, Pytorch;
+- [Network RIPE Analysis](https://github.com/emilymarquessalum/network-ripe-analysis/tree/main): Analysis of network RTT for IPV4 and IPV6;
+<!-- // - [WIP - Personal Finances Analysis](https://github.com/emilymarquessalum/personal_finances_analysis/tree/main): Analysis tool for finance prediction. Topics: Regression, Pytorch; -->
+
 
 ## Looking at my profile because of flutter?
 I worked in 4 different projects in iTec, but those are private and I can't link to them.  
