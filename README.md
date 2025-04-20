@@ -13,19 +13,19 @@
     <td>2 years as Flutter Front-end developer in <a href="https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/">ITec</a></td>
   </tr>
   <tr>
-    <td>A Curious Learner</td>
+    <td>Data Oriented</td>
     <td>⚛️</td>
-    <td>Currently very interested in data science</td>
-  </tr>
+    <td>Working and learning with AI systems</td>
+  </tr>w
   <tr>
     <td>An Approachable Person</td>
     <td>👋</td>
     <td>Call me on <a href="https://discord.com/users/674759841583202328">discord</a>!</td>
   </tr>
   <tr>
-    <td>A Bilingual</td>
+    <td>Bilingual</td>
     <td>✈️</td>
-    <td>Portuguese and English, trying to get the basics of Japanese!</td>
+    <td>Portuguese and English</td>
   </tr>
 </table>
 
