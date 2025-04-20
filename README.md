@@ -41,4 +41,4 @@ Last public projects:
 I worked in 4 different projects in iTec, but those are private and I can't link to them.  
 ### Last flutter public projects:
 - [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): BLOC, GoRouter;
-- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): BLoC, Auto Route, Deploys to firebase web (was made for mobile but that was the simplest starting approach for testing remotely);
+- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): BLoC, Auto Route, Deploys to firebase web (was made for mobile but we needed a way to test remotely);
