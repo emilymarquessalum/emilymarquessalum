@@ -15,8 +15,8 @@
   <tr>
     <td>Data Oriented</td>
     <td>⚛️</td>
-    <td>Working and learning with AI systems</td>
-  </tr>w
+    <td>Always making decisions with data, and working and learning AI (not just using tools, actual learning)</td>
+  </tr>
   <tr>
     <td>An Approachable Person</td>
     <td>👋</td>
