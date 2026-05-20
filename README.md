@@ -5,17 +5,22 @@
   <tr>
     <td>A Student</td>
     <td>👩‍🎓</td>
-    <td>Forth year of computer engineering at FURG</td>
+    <td>Fifth (and last) year of computer engineering at FURG</td>
+  </tr>
+  <tr>
+    <td>A Wanna-be Researcher</td>
+    <td>📝</td>
+    <td>Doing research on the Internet (will update with my thesis link by the end of the year)</td>
   </tr>
   <tr>
     <td>A Developer</td>
     <td>👾</td>
-    <td>2 years as Flutter Front-end developer in <a href="https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/">ITec</a></td>
+    <td>3 years as Front-end developer (Flutter & React) in <a href="https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/">ITec</a></td>
   </tr>
   <tr>
     <td>Data Oriented</td>
     <td>⚛️</td>
-    <td>Always making decisions with data, and working and learning AI (not just using tools, actual learning)</td>
+    <td>Always trying to make decisions with data.</td>
   </tr>
   <tr>
     <td>An Approachable Person</td>
@@ -28,17 +33,20 @@
     <td>Portuguese and English</td>
   </tr>
 </table>
+&nbsp;
 
+## You are looking at my profile because of...
 
-## Looking at my profile because of data science?
-Last public projects:
-- [Model Integration Using RatInABox](https://github.com/emilymarquessalum/model_integration_ratinabox): RL Model implemented in python to contribute to the package [RatInABox](https://github.com/RatInABox-Lab/RatInABox), based on [[Scleidorovich et al., 2020]](https://pubmed.ncbi.nlm.nih.gov/31915905/). Topics: Python, RL models;
+## Internet Research?
 - [Network RIPE Analysis](https://github.com/emilymarquessalum/network-ripe-analysis/tree/main): Analysis of network RTT for IPV4 and IPV6;
+
+## Data science?
+Last public project:
+- [Model Integration Using RatInABox](https://github.com/emilymarquessalum/model_integration_ratinabox): RL Model implemented in python to contribute to the package [RatInABox](https://github.com/RatInABox-Lab/RatInABox), based on [[Scleidorovich et al., 2020]](https://pubmed.ncbi.nlm.nih.gov/31915905/). Topics: Python, RL models;
 <!-- // - [WIP - Personal Finances Analysis](https://github.com/emilymarquessalum/personal_finances_analysis/tree/main): Analysis tool for finance prediction. Topics: Regression, Pytorch; -->
 
-
-## Looking at my profile because of flutter?
+## Flutter?
 I worked in 4 different projects in iTec, but those are private and I can't link to them.  
 ### Last flutter public projects:
-- [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): BLOC, GoRouter;
-- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): BLoC, Auto Route, Deploys to firebase web (was made for mobile but we needed a way to test remotely);
+- [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): Uses BLOC, GoRouter;
+- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): Uses BLoC, Auto Route, Deploys to firebase web (was made for mobile but we needed a way to test remotely);
