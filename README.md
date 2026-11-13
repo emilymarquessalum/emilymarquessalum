@@ -10,7 +10,7 @@
   <tr>
     <td>Fascinated with the Internet</td>
     <td>🌐</td>
-    <td>Currently working in NIC.br, hope contribute for a better Internet!</td>
+    <td>Currently working in NIC.br, hope to contribute for a better Internet!</td>
   </tr>
   <tr>
     <td>Researcher</td>
