@@ -22,6 +22,14 @@
     <td>⚛️</td>
     <td>Always trying to make decisions with data.</td>
   </tr>
+</table>
+&nbsp;
+<!-- 
+  <tr>
+    <td>A Developer</td>
+    <td>👾</td>
+    <td>3 years as Front-end developer (Flutter & React) in <a href="https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/">ITec</a></td>
+  </tr>
   <tr>
     <td>An Approachable Person</td>
     <td>👋</td>
@@ -31,14 +39,6 @@
     <td>Bilingual</td>
     <td>✈️</td>
     <td>Portuguese and English</td>
-  </tr>
-</table>
-&nbsp;
-<!-- 
-  <tr>
-    <td>A Developer</td>
-    <td>👾</td>
-    <td>3 years as Front-end developer (Flutter & React) in <a href="https://embrapii.org.br/unidades/unidade-embrapii-em-sistema-roboticos-e-automacao-itec-furg-centro-em-ciencia-de-dados-e-robotica-da-universidade-federal-do-rio-grande/">ITec</a></td>
   </tr>
   --> 
 
