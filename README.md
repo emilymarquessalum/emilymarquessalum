@@ -8,7 +8,7 @@
     <td>Fifth (and last) year of computer engineering at FURG</td>
   </tr>
   <tr>
-    <td>A Wanna-be Researcher</td>
+    <td>Researcher</td>
     <td>📝</td>
     <td>Doing research on the Internet (will update with my thesis link by the end of the year)</td>
   </tr>
@@ -39,6 +39,7 @@
 
 ## Internet Research?
 - [Network RIPE Analysis](https://github.com/emilymarquessalum/network-ripe-analysis/tree/main): Analysis of network RTT for IPV4 and IPV6;
+- [IPv6 Top-of-Mind Domain Tests](https://panorama.ipv6.br/testes_sites_top_of_mind.html): For a selection of brazilian websites, how many are accesible via IPv6. NIC.br page that I built (permission was given to declare this);
 
 ## Data science?
 Last public project:
@@ -48,5 +49,5 @@ Last public project:
 ## Flutter?
 I worked in 4 different projects in iTec, but those are private and I can't link to them.  
 ### Last flutter public projects:
-- [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): Uses BLOC, GoRouter;
-- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): Uses BLoC, Auto Route, Deploys to firebase web (was made for mobile but we needed a way to test remotely);
+- [AgendaMed](https://github.com/SmartAgendaMed/app_smart_agendaMed): Made for a "Hackathon" (sort of), medical app for scheduling exams. Uses BLOC, GoRouter;
+- [UniCredit](https://github.com/Uni-Credit/Uni-Credit-Frontend/tree/main): Project for a credit system that would be used inside an university (theoretically). Uses BLoC, Auto Route, Deploys to firebase web (was made for mobile but we needed a way to test remotely);
