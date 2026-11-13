@@ -13,7 +13,7 @@
     <td>Currently working in NIC.br, hope to contribute for a better Internet!</td>
   </tr>
   <tr>
-    <td>Researcher</td>
+    <td>A Researcher</td>
     <td>📝</td>
     <td>Doing research (will link my thesis later)</td>
   </tr>
