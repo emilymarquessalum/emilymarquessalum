@@ -1,6 +1,6 @@
 ## Hi!
 
-### My name is Emily Salum, and I Am...
+### My name is Emily Salum, and I am...
 <table>
   <tr>
     <td>A Student</td>
