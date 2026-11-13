@@ -44,7 +44,7 @@
 
 ## You are looking at my profile because of Internet Research?
 
-- [IXPert]([https://panorama.ipv6.br/testes_sites_top_of_mind.html](https://ixpert.info)): A website with IXP data, developed to help with decision making for Internet Operators. I did the frontend for this one;
+- [IXPert](https://ixpert.info): A website with IXP data, developed to help with decision making for Internet Operators. I did the frontend for this one;
 - [IPv6 Top-of-Mind](https://panorama.ipv6.br/testes_sites_top_of_mind.html): For a selection of Brazilian websites, how many are accessible via IPv6. NIC.br page, where I built both the pipeline and frontend;
 - [Network RIPE Analysis](https://github.com/emilymarquessalum/network-ripe-analysis/tree/main): Analysis of network RTT for IPV4 and IPV6, nothing complex;
 
